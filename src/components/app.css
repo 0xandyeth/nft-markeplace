@@ -1,0 +1,19 @@
+
+.btn-wallet{
+    display: block;
+      width: max-content;
+      text-align: center;
+      color: #fff !important;
+      background: #8364E2;
+      border-radius: 6px;
+      letter-spacing: normal;
+      outline: 0;
+      font-weight: 800;
+      text-decoration: none;
+      padding: 8px 40px;
+      font-size: 14px;
+      border: none;
+      cursor: pointer;
+      box-shadow: 2px 2px 20px 0px rgb(131 100 226 / 0%);
+      transition: all 0.3s ease;
+  }
